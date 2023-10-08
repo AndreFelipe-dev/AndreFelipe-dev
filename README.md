@@ -3,17 +3,7 @@ Olá!!eu sou  André Felipe 😄
 
 👋 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por resolver problemas com código. Atualmente, aprimorando minhas habilidades em Python, Django e Flask. Em busca de desafios e oportunidades para aprender e crescer na área de desenvolvimento de software. 💻✨ #DesenvolvimentoDeSistemas #Python #Django #Flask #AprendizadoConstante
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AndreFelipe-dev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 
 #
 <div>
